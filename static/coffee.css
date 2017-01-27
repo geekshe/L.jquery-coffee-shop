@@ -11,3 +11,16 @@ body {
 h4{
     text-align: left;
 }
+
+.hidden {
+
+    display: none;
+}
+
+.show {
+
+}
+
+.placeholder {
+    height: 300px;
+}
